@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxLib", "FluxLib.csproj", "{1C99039B-B038-44E2-9B9E-138FD947843F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluxLib", "FluxLib\FluxLib.csproj", "{1C99039B-B038-44E2-9B9E-138FD947843F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{648B8F2B-B01E-482B-BD54-D543CDD70E68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1C99039B-B038-44E2-9B9E-138FD947843F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C99039B-B038-44E2-9B9E-138FD947843F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C99039B-B038-44E2-9B9E-138FD947843F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{648B8F2B-B01E-482B-BD54-D543CDD70E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{648B8F2B-B01E-482B-BD54-D543CDD70E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{648B8F2B-B01E-482B-BD54-D543CDD70E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{648B8F2B-B01E-482B-BD54-D543CDD70E68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
